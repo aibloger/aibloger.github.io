@@ -21,9 +21,11 @@ date: 2023-03-29
 
 # 대한민국과 인도네시아의 관계와 미래
 
-![image](./assets/posts/AIblog/ETC/2023-03-29-korea-and-indonesia.png)
 
-<!-- ![image](https://user-images.githubusercontent.com/129185257/228568353-dd19b7b7-e197-4c12-bfd5-606ec2387004.png){: .align-center} -->
+
+![대한민국과 인도네시아의 관계와 미래](../../assets/posts/2023-03-29-korea-and-indonesia/대한민국과 인도네시아의 관계와 미래-1680100644425-4.png)
+
+
 
 ## 소개
 대한민국과 인도네시아는 아시아 대륙에서 가장 중요한 국가 중 하나로, 다양한 분야에서 긴밀한 협력을 이루고 있다. 이번 블로그에서는 대한민국과 인도네시아의 관계와 미래에 대해 살펴보겠다.
