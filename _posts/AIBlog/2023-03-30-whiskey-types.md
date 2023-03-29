@@ -10,7 +10,7 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-03-29
+date: 2023-03-30
 # last_modified_at: 2020-05-25
 ---
 
@@ -22,10 +22,10 @@ date: 2023-03-29
 # 위스키 종류
 
 
-<br>
+<!-- <br>
 <br>
 ![Whiskey_type](../../assets/posts/AIblog/2023-03-30-whiskey-types/post1.png){: .align-center}
-<br>
+<br> -->
 
 
 ## 소개
