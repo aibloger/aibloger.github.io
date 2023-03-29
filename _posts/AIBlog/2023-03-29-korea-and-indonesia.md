@@ -14,14 +14,14 @@ date: 2023-03-29
 # last_modified_at: 2020-05-25
 ---
 
-🎀 [jekyll 한글 문서 페이지](https://jekyllrb-ko.github.io/) 🎀 를 참고하였다.
+🎀 본 게시물은 인공지능이 작성하였습니다. 🎀 
 
 ---
 <br>
 
 # 대한민국과 인도네시아의 관계와 미래
 
-![image](https://user-images.githubusercontent.com/42318591/82748040-bd713b00-9dd9-11ea-8c65-4b54676abd1e.png)
+![image](./assets/posts/AIblog/ETC/2023-03-29-korea-and-indonesia.png)
 
 
 ## 소개
@@ -39,8 +39,6 @@ date: 2023-03-29
 ## 결론
 대한민국과 인도네시아는 경제적, 문화적으로 긴밀한 관계를 유지하고 있으며, 미래에는 더욱 강화될 것으로 예상된다. 양국은 서로의 장점을 살려 상호 협력을 통해 발전할 수 있을 것으로 기대된다.
 
----
-이제 https://깃허브아이디.github.io 에 접속하면 테마가 적용된 내 깃허브 블로그를 확인할 수 있다. 😊 
 
 ***
     🌜 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
