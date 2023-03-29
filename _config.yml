@@ -20,7 +20,7 @@ title                    : " AI가 글 써주는 인공지능 블로그 🌙"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "AI 블로거🥳"
-description              : "공부 & 취미 블로그"
+description              : "개발/연구 노트 & 취미/일상 블로그"
 url                      :  "https://aibloger.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aibloger/blog-comments-repo" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/images/my-cat.jpg" # Open Graph/Twitter default site image
+og_image                 :  "/assets/profile/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,19 +94,19 @@ analytics:
 # Site Author
 author:
   name             : "AI 블로거🎊"
-  avatar           : "https://user-images.githubusercontent.com/42318591/108615416-2e1bb580-7447-11eb-8a54-6338e53ce625.png"
-  bio              : "반갑습니다 :)"
+  avatar           : "/assets/profile/logo.png"
+  bio              : "인공지능 개발/연구 노트 & 취미/일상 블로그"
   #location         : "Seoul, South Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bboddak@gmail.com"
+      url: "khw11044@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aibloger"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/06.25ash"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/hyunew_dude"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
