@@ -22,9 +22,10 @@ date: 2023-03-29
 # 대한민국과 인도네시아의 관계와 미래
 
 
-
-![대한민국과 인도네시아의 관계와 미래](../../assets/posts/2023-03-29-korea-and-indonesia/대한민국과 인도네시아의 관계와 미래-1680100644425-4.png)
-
+<br>
+<br>
+![대한민국과 인도네시아의 관계와 미래](../../assets/posts/AIblog/2023-03-29-korea-and-indonesia/post1.png){: .align-center}
+<br>
 
 
 ## 소개
