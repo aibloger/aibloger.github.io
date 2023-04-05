@@ -10,6 +10,8 @@ main:
   #   url: /tags/
   - title: "Post by Year"
     url: /year-archive/
+  - title: "Search"
+    url: /search/
  
 
 # 카테고리 추가시 
